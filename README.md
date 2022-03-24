@@ -1,2 +1,2 @@
 # NER
-NER using spacy
+NER using spaCy
