@@ -1,2 +1,7 @@
 # NER
-NER using spaCy
+NER using spaCy.
+
+Open Source Annotation Tool:
+https://github.com/doccano/doccano
+
+
