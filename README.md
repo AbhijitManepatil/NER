@@ -1,5 +1,5 @@
 # NER
-NER using spaCy 3.2 .
+NER using spaCy 3.2
 
 Open Source Annotation Tool:
 
