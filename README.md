@@ -12,7 +12,7 @@ Open Source Annotation Tool:
 https://stackoverflow.com/questions/69181078/spacy-how-do-you-add-custom-ner-labels-to-a-pre-trained-model
 
 
-### Ref: Article Spacy 3
+### Ref: Article Spacy 3.x
 https://medium.com/@acm15aug/simple-spacy-3-x-end-to-end-custom-ner-to-pipeline-31664cac9c5b
 
 
